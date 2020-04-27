@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kata kati</string>
+
+    <string name="title_activity_splash_screen">Kata Kati</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
